@@ -1,0 +1,6 @@
+{
+  "name": "TekenPret",
+  "description": "Leer stap voor stap tekenen en animeren met vrolijke karakters, bewegende hulplijnen en een veilige tekenstudio voor kinderen en beginners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
